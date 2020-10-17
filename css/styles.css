@@ -31,9 +31,9 @@ div {
   background-color: white;
 }
 
-.intro{
-color: #40514E;
-font-size: 2rem;
+.intro {
+  color: #40514E;
+  font-size: 2rem;
 }
 
 .top-container {
@@ -58,12 +58,12 @@ font-size: 2rem;
   text-align: left;
 }
 
-.Development{
-color:  #40514E;
-font-size: 2rem;
+.Development {
+  color: #40514E;
+  font-size: 2rem;
 }
 
-.chilli-skill-description{
+.chilli-skill-description {
   color: #40514E;
   font-size: 2rem;
 }
@@ -72,7 +72,7 @@ a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 a:hover {
@@ -84,14 +84,15 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6;
-  border-bottom: none;
-  width: 4%;
-  margin: 100px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
 }
 
-.a{
-color: #66BFBF;
+.a {
+  color: #66BFBF;
 }
 
 .pro {
